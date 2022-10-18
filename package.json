@@ -1,0 +1,25 @@
+{
+  "name": "test-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksander-omelchuk/test-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksander-omelchuk/test-webpack/issues"
+  },
+  "homepage": "https://github.com/aleksander-omelchuk/test-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
